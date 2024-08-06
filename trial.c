@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("Welcome to the Git\n"); //adding comments
-	printf("Habjabi\n");
+	printf("Welcome to the Git\n");
 	return 0;
 }
